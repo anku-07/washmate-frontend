@@ -1,0 +1,2 @@
+// Vehicles Feature Module
+export {};

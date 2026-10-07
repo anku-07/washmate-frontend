@@ -1,0 +1,2 @@
+// Bookings Feature Module
+export {};
